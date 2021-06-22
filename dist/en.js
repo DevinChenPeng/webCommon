@@ -1,12 +1,12 @@
 /*
  * @Author: your name
  * @Date: 2020-11-04 09:16:46
- * @LastEditTime: 2021-06-08 18:44:54
+ * @LastEditTime: 2021-06-22 17:30:23
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \web-template\public\en.js
+ * @FilePath: \element-ui_table_form\public\en.js
  */
-var en = {
+var eni18n = {
   "public": {
     about: "About",
     "screening": "Filter",

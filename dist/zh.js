@@ -1,4 +1,4 @@
-var zh = {
+var zhi18n = {
   public: {
     about: "关于",
     screening: "筛选",
